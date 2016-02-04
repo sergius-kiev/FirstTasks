@@ -1,0 +1,6 @@
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_z_3\bin\Debug\Program_z_3.exe.config
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_z_3\obj\Debug\Program_z_3.csprojResolveAssemblyReference.cache
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_z_3\bin\Debug\Program_z_3.exe
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_z_3\bin\Debug\Program_z_3.pdb
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_z_3\obj\Debug\Program_z_3.exe
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_z_3\obj\Debug\Program_z_3.pdb

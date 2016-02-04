@@ -1,0 +1,6 @@
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_5_z\bin\Debug\Program_5_z.exe.config
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_5_z\bin\Debug\Program_5_z.exe
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_5_z\bin\Debug\Program_5_z.pdb
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_5_z\obj\Debug\Program_5_z.csprojResolveAssemblyReference.cache
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_5_z\obj\Debug\Program_5_z.exe
+D:\My Office\Tr_for_C#\Second\ConsoleApplication2\Program_5_z\obj\Debug\Program_5_z.pdb
