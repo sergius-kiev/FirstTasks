@@ -10,6 +10,7 @@ namespace Program_5_z
     {
         static void Main(string[] args)
         {//Это задание №5
+            // iughjghjgkgjgj
             int n;
             Console.WriteLine("How much element of array");
             n = Convert.ToInt32(Console.ReadLine());
